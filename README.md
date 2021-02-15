@@ -8,6 +8,10 @@ In the project directory, you can run:
 
 ### `npm start`
 
+Put this folder into and apache server like Xampp or Lampp because I use php file for API call and put that file under src/server folder.
+
+use the same name as "travelbrandsinterviewtest" because I use static path in App.js
+
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
@@ -68,3 +72,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
