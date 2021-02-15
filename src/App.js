@@ -23,7 +23,7 @@ function App(props) {
   }
 
   useEffect(() =>{
-    fetch('./server/index.php')
+    fetch('http://localhost/travelbrandsinterviewtest/src/server/index.php')
     .then((response) => response.json())
     .then((json) => { console.log(json);
       if(json){
